@@ -1,0 +1,30 @@
+.titre {
+    display: flex;
+    flex-direction: row;
+    background-color: mintcream;
+    justify-content: center;
+    align-items: center;
+}
+
+.navigation {
+  background-color: aquamarine;
+}
+.nav-element {
+    list-style: none;
+    background-color: blanchedalmond;
+    width: 100px;
+    height: 60px;
+}
+
+.nav-element:hover {
+    background-color: burlywood;
+}
+
+.list-row {
+    flex-direction: row;
+    display: flex;
+}
+
+
+
+
